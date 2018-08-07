@@ -1,0 +1,11 @@
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojResolveAssemblyReference.cache
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+D:\repos\CURRENT\RDC.Control.IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
